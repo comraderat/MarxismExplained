@@ -14,22 +14,6 @@ class L1,L2 internal-link;
 ```
 <!-- end: generated mindmap -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Summary
 
 

@@ -33,22 +33,6 @@ class L1,L2,L4,L5,L6,L7,L8,L9,L10 internal-link;
 ```
 <!-- end: generated mindmap -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Summary
 
 

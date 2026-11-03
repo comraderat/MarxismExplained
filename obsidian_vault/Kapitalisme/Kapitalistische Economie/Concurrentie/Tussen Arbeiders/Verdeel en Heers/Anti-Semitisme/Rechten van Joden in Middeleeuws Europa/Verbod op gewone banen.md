@@ -21,22 +21,6 @@ class L1,L2,L4,L5,L6 internal-link;
 ```
 <!-- end: generated mindmap -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Summary
 
 
