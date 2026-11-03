@@ -31,19 +31,6 @@ L8 --> L11
 class L2,L3,L4,L5,L6,L7,L8,L9,L10,L11 internal-link; 
 ```
 <!-- end: generated mindmap -->
-
-
-
-
-```mermaid
-graph TD
-A1[Marxisme]
-A2[Dialektiek]
-A1 --> A2
-A1 --> C[Something else]
-class A1,A2 internal-link;
-```
-
 # Summary
 
 
