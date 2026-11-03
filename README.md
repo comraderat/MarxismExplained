@@ -1,4 +1,6 @@
 Een poging tot Marxisme uitleggen
-[[Marxisme|Klik hier om te starten]]
+
+[Klik hier om te starten](docs/Marxisme.md)
+
 
 Heel erg WIP
